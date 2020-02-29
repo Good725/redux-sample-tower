@@ -366,13 +366,6 @@ class Page extends Component {
 }
 ```
 
-
-## Acknowledgment
-
-redux-tower has inspired by [redux-saga-router](https://github.com/jfairbank/redux-saga-router).
-Big thanks to [@jfairbank](https://github.com/jfairbank).
-
-
 ## License
 
 MIT
